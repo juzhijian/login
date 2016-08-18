@@ -1,4 +1,4 @@
-#include "passwdedit.h"
+﻿#include "passwdedit.h"
 #include "ui_passwdedit.h"
 
 #include <QMessageBox>

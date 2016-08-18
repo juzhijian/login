@@ -1,4 +1,4 @@
-#ifndef EXAM_H
+﻿#ifndef EXAM_H
 #define EXAM_H
 
 #include <QMainWindow>

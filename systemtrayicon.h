@@ -1,4 +1,4 @@
-#ifndef SYSTEMTRAYICON_H
+﻿#ifndef SYSTEMTRAYICON_H
 #define SYSTEMTRAYICON_H
 
 #include <QWidget>

@@ -1,4 +1,4 @@
-#include "exam.h"
+﻿#include "exam.h"
 #include "ui_exam.h"
 
 Exam::Exam(QWidget *parent) :

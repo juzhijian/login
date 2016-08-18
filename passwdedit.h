@@ -1,4 +1,4 @@
-#ifndef PASSWDEDIT_H
+﻿#ifndef PASSWDEDIT_H
 #define PASSWDEDIT_H
 
 #include <QDialog>

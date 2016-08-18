@@ -1,4 +1,4 @@
-#include "systemtrayicon.h"
+﻿#include "systemtrayicon.h"
 
 #include <QApplication>
 #include <QDebug>
