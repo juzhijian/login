@@ -15,12 +15,12 @@ int main(int argc, char *argv[])
     Login w;
     w.show();
 
-    //加载qss start
+//    加载qss start
 //    QFile file(":/images/qss/white.qss"); //black white QSS 文件路径
 //    file.open(QIODevice::ReadOnly | QIODevice::Text);
 //    QString qss(file.readAll());
 //    a.setStyleSheet(qss);
-    //加载qss end
+//    加载qss end
 
     
     return a.exec();
